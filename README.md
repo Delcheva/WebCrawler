@@ -1,0 +1,2 @@
+# WebCrawler
+Simple PyQt Webcrawler
